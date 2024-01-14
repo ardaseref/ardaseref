@@ -7,7 +7,7 @@ I'm a freshman university student majoring in Computer Engineering and I'm tryin
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with learning how to write efficient code
 - 💬 Ask me about anything you want
-- 📫 How to reach me: send me a dm on my [instagram account](https://www.instagram.com/ardasereflier/?hl=tr)
+- 📫 How to reach me: send me a dm on my [instagram account](https://www.instagram.com/ardasereflier/?hl=tr) or send me an email: ardasereflier@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a human!
 
